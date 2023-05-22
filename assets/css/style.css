@@ -7,7 +7,7 @@
 body{ 
     font-family: lato;
     font-weight: 300;
-    color: #7FFFD4;
+     color: #7FFFD4;
 }
 
 /* logo and headings */
@@ -15,10 +15,20 @@ body{
 #logo {
     background-color:#7FFFD4;
     color:#5933cc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:25px;
+    text-align: center;
+    font-size: 350%;
+    margin-top:0%
+    
 }
 
-#menu li{
+   #menu li{
     float:right;
     list-style-type:none;
     margin-right:30px
+    
+    
+    
 }
