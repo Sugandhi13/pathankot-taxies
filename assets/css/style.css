@@ -20,34 +20,25 @@ header {
     color:#5933cc;
     padding:40px;
     background-size:cover;
-    height:2em;
-    bottom:5px;
+    height:4em;
    
-    
-    }
+   }
 
  #menu li{
         list-style:none;
         float:right;
         padding:20px;
-        margin-bottom:100%;
-    
         
         
-
-       
-         }
+       }
 
  #logo {
     text-align: center;
     letter-spacing:4px;
-    padding-bottom:1%;
     
-   
     
-   
-
-    }
+    
+     }
 
     #logo-image{
     background: url("../images/haridwar-taxi.png") no-repeat center center;
@@ -55,8 +46,10 @@ header {
     background-size: 300px;
     width: 300px;
     height: 300px;
-    font-size: 16px;
-    bottom:5px;
+    
+    
+   
+   
   }
 
     
